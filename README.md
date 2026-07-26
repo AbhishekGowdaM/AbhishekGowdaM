@@ -7,7 +7,7 @@
 - 🌱 I am currently specializing in Python Full-Stack Development and building AI-driven solutions.
 - 🧠 Deeply interested in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain orchestrations.
 - ⚡ I love using agentic workflows and developer tools (including **Antigravity**) to build intelligent software.
-- 📫 How to reach me:abhishek003mgowda@gmail.com or connect on https://www.linkedin.com/in/abhishek-gowda-m-8a351125a
+- 📫 How to reach me:Email-abhishek003mgowda@gmail.com or connect on Linkedin-https://www.linkedin.com/in/abhishek-gowda-m-8a351125a
 
 ---
 
