@@ -7,7 +7,7 @@
 - 🌱 I am currently specializing in Python Full-Stack Development and building AI-driven solutions.
 - 🧠 Deeply interested in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain orchestrations.
 - ⚡ I love using agentic workflows and developer tools (including **Antigravity**) to build intelligent software.
-- 📫 How to reach me:Email-abhishek003mgowda@gmail.com or connect on Linkedin-https://www.linkedin.com/in/abhishek-gowda-m-8a351125a
+- 📫 How to reach me:abhishek003mgowda@gmail.com or connect on https://www.linkedin.com/in/abhishek-gowda-m-8a351125a
 
 ---
 
@@ -45,13 +45,7 @@
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekGowdaM&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGowdaM&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
 
----
 
 ## 🐍 GitHub Contribution Snake
 Here is the snake eating my contributions grid!
