@@ -10,7 +10,7 @@
 * 💻 Interested in developing web applications using Python, Django, HTML, CSS, and JavaScript.
 * 🧠 Strong interest in problem-solving, Data Structures & Algorithms, SQL, and Core Computer Science concepts.
 * ⚡ I enjoy learning new technologies and building projects that solve real-world problems.
-* 📫 How to reach me: [abhishek003mgowda@gmail.com](mailto:abhishek003mgowda@gmail.com) or connect on (https://www.linkedin.com/in/abhishek-gowda)
+* 📫 How to reach me: [abhishek003mgowda@gmail.com](mailto:abhishek003mgowda@gmail.com) or connect on (https://www.linkedin.com/in/abhishek-gowda-m-8a351125a)
 
 ---
 
