@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Gowda M! 👋
 
-### Python Full-Stack Developer 🚀
+### Learning Python Full-Stack Development 🚀 | Building projects and improving my coding skills 💻
 
 ---
 
